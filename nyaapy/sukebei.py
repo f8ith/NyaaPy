@@ -1,5 +1,5 @@
 import requests
-from NyaaPy import utils
+from nyaapy import utils
 
 
 class SukebeiNyaa:

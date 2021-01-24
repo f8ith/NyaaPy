@@ -1,6 +1,6 @@
 import requests
-from NyaaPy import utils
-from NyaaPy import torrent
+from nyaapy import utils
+from nyaapy import torrent
 
 
 class Nyaa:
