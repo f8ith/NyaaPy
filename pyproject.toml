@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nyaapy"
+name = "NyaaPy"
 version = "0.1.0"
 description = ""
 authors = ["faith <jamienibtong@gmail.com>"]
